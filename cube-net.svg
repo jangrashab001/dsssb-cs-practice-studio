@@ -1,0 +1,11 @@
+<svg width="520" height="200" viewBox="0 0 520 200" xmlns="http://www.w3.org/2000/svg">
+<g fill="#edf5f7" stroke="#123c54" stroke-width="2">
+<rect x="75" y="12" width="40" height="40"/><rect x="75" y="52" width="40" height="40"/>
+<rect x="75" y="92" width="40" height="40"/><rect x="75" y="132" width="40" height="40"/>
+<rect x="35" y="52" width="40" height="40"/><rect x="115" y="52" width="40" height="40"/>
+</g><g font-size="18" fill="#123c54" font-family="Arial" text-anchor="middle">
+<text x="95" y="39">B</text><text x="95" y="79">A</text><text x="95" y="119">C</text><text x="95" y="159">D</text>
+<text x="55" y="79">E</text><text x="135" y="79">F</text></g>
+<g stroke="#147b79" stroke-width="5" fill="none"><path d="M310 130 L375 65 M349 65 L375 65 L375 91"/></g>
+<path d="M410 35 L410 150" stroke="#778e9a" stroke-width="3" stroke-dasharray="6 4"/>
+<g font-family="Arial" font-size="13" fill="#123c54"><text x="40" y="192">Figure 1: cube net</text><text x="292" y="180">Figure 2: arrow and mirror</text></g></svg>
