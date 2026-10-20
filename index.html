@@ -18,5 +18,6 @@
 <footer class="app-footer">Your progress stays on this browser. Export a backup to keep a copy.</footer></div></div>
 <nav class="mobile-nav" id="mobile-nav" aria-label="Mobile navigation"></nav>
 <dialog id="modal"><div id="modal-content"></div></dialog><div id="toast" role="status" aria-live="polite"></div>
-<script src="data.js"></script><script src="app.js"></script>
+<script>if('serviceWorker' in navigator && navigator.serviceWorker.controller){navigator.serviceWorker.addEventListener('controllerchange',()=>location.reload(),{once:true});}</script>
+<script src="data.js?v=2026-10-20-2"></script><script src="app.js?v=2026-10-20-2"></script>
 </body></html>
